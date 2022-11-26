@@ -1,4 +1,4 @@
-# Animal Biography || Sql-Database
+# Animal Biography || Sqlflit-Database
 
 
 ## This project is created with the help of sql-database.
